@@ -54,7 +54,8 @@ int main()
 
 
 ## OUTPUT
-![image](https://github.com/Pooja-sri45/Linux-IPC-Shared-memory/assets/147081893/cbd3a3b8-5207-4d21-b6b1-ec85013606f3)
+![image](https://github.com/Pooja-sri45/Linux-IPC-Shared-memory/assets/147081893/438a51ec-c065-4e9d-a0b2-200ae1031762)
+
 
 
 
